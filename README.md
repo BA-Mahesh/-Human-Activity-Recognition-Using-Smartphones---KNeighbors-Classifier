@@ -33,3 +33,8 @@ For each record in the dataset it is provided:
     >* KNeighborsClassifier
 6. Evaluation
 7. Conclusion
+
+### Summary :
+In this project we designed a robust activity recogonition system based on the date on smartphones. As you know mobile devices have accelerometer as the sensor which collects the activities. These activities were classified using K-nearest neighbour.
+
+If you see the test results it is very clear that we were able classify with maximum accuracy
